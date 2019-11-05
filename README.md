@@ -44,6 +44,7 @@ d) docker run -d -p 80:5000 --name flaskapp flask-app
 
 # API Documentation:
 
+swagger: "2.0"
 info:
   description: Restful API which allow users to search gene in Ensembl database
   version: "1.0.0"
