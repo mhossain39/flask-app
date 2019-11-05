@@ -1,0 +1,7 @@
+flask==1.1.1
+marshmallow==2.15.0
+marshmallow-sqlalchemy==0.13.2
+sqlalchemy==1.0.15
+flask_sqlalchemy==2.4.1
+flask_marshmallow==0.10.1
+MySQL-python
