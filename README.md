@@ -9,6 +9,7 @@ Using CURL: curl - get 'http://localhost:5000/api/search?species=homo_sapiens&na
 API accepted parameter:
 
 a) species
+
 b) name
 
 
