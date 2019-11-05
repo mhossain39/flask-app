@@ -31,7 +31,7 @@ b) cd flask-app
 
 c) docker build -t flask-app .
 
-d) docker run -d -p 5000:5000 --name flaskapp flask-app
+d) docker run -d -p 80:5000 --name flaskapp flask-app
 
 
 # API Documentation:
